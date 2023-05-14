@@ -41,8 +41,8 @@ public:
 };
 
 //Sun, Planets and Stars
-Planet sun(5.0, 0, 0, 0, 0, 0);				//Sun
-Planet mer(1.0, 7, 0, 4.74, 02.11, 0);		//Mercury
+Planet sun(50.0, 0, 0, 0, 0, 0);				//Sun
+Planet mer(10.0, 7, 0, 4.74, 02.11, 0);		//Mercury
 Planet ven(1.5, 11, 0, 3.50, 177.0, 0);		//Venus
 Planet ear(2.0, 16, 0, 2.98, 23.44, 0);		//Earth
 Planet mar(1.2, 21, 0, 2.41, 25.00, 0);		//Mars
